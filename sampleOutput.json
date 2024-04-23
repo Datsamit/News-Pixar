@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Peter Valdes-Dapena",
+            "title": "EV tax credits just changed again: Here’s where you can still get discounts - CNN",
+            "description": "The Internal Revenue Service updated the rules for electric vehicle tax credits again starting with the first day of 2024. The bad news is that fewer vehicles are now eligible for tax credits and even fewer are eligible for the maximum $7,500.",
+            "url": "https://www.cnn.com/2024/01/03/business/ev-tax-credits-changed-again-in-2024/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1812473203.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-01-03T14:20:00Z",
+            "content": "The Internal Revenue Service updated the rules for electric vehicle tax credits again starting with the first day of 2024, bringing some good and bad news.\r\nThe bad news is that fewer vehicles are no… [+4730 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "More than 100 killed in 'terrorist attacks' near tomb of Iranian Guards' Soleimani - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/world/middle-east/iran-media-report-explosion-near-guards-commander-soleimanis-tomb-anniversary-2024-01-03/",
+            "urlToImage": null,
+            "publishedAt": "2024-01-03T14:16:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Smartphones in 2024: What To Expect - CNET",
+            "description": "Next year’s phones will be all about generative AI. Foldables will also continue improving, and companies like Apple and Samsung will keep inching towards mo...",
+            "url": "https://www.youtube.com/watch?v=yWt6jJ-5QoE",
+            "urlToImage": "https://i.ytimg.com/vi/yWt6jJ-5QoE/maxresdefault.jpg",
+            "publishedAt": "2024-01-03T13:00:48Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Arjun Kharpal",
+            "title": "16-year-old storms to final of world darts championship with £500,000 prize at stake - CNBC",
+            "description": "16-year old Luke Littler on Wednesday will compete in the final of the world PDC World Darts Championship against Luke Humphries with £500,000 up for grabs.",
+            "url": "https://www.cnbc.com/2024/01/03/luke-littler-storms-to-pdc-darts-final-with-500000-prize-at-stake.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107353616-1704283824422-gettyimages-1902927615-td_14006_mtuyggtq.jpeg?v=1704283947&w=1920&h=1080",
+            "publishedAt": "2024-01-03T12:45:57Z",
+            "content": "LONDON A 16-year-old named Luke Littler on Wednesday will compete in the final of the PDC World Darts Championship hoping to become the youngest ever winner of the sport's premier tournament.\r\nLittle… [+1648 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Lauren Irwin",
+            "title": "DeSantis dismisses Ramaswamy call to withdraw: 'Just absurd' - The Hill",
+            "description": "Florida Gov. Ron DeSantis dismissed fellow GOP presidential candidate Vivek Ramaswamy’s call to withdraw from Colorado and Maine as “just absurd” Tuesday. Ramaswamy, an advocate of former President Trump, called upon his 2024 rivals — DeSantis, former United …",
+            "url": "https://thehill.com/homenews/campaign/4386446-desantis-dismisses-ramaswamy-call-withdraw-colorado-maine/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/12/GettyImages-1829282124.jpg?w=1280",
+            "publishedAt": "2024-01-03T12:43:00Z",
+            "content": "Skip to content\r\nFlorida Gov. Ron DeSantis dismissed fellow GOP presidential candidate Vivek Ramaswamy’s call to withdraw from Colorado and Maine as “just absurd” Tuesday.\r\nRamaswamy, an advocate of … [+2338 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Holly Ellyatt",
+            "title": "Ukraine war live updates: Ukraine attacks Russian city of Belgorod and occupied Crimea overnight as retaliatory strikes intensify - CNBC",
+            "description": "The latest attacks continue an intensification of aerial warfare and \"tit for tat\" strikes by Russia and Ukraine over the last few days.",
+            "url": "https://www.cnbc.com/2024/01/03/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107353290-1704214450474-gettyimages-1895419407-ukrinform-gaspipel240102_npctY.jpeg?v=1704214494&w=1920&h=1080",
+            "publishedAt": "2024-01-03T12:36:00Z",
+            "content": "Russia's Defense Ministry said Ukraine used 12 missiles to target the Russian border region of Belgorod overnight.\r\n\"This morning, the Russian Armed Forces have foiled another attempt by the Kiev reg… [+1066 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Japan jet crash: How crew pulled off flawless evacuation from plane inferno - BBC.com",
+            "description": "Leaving valuables behind was a \"major factor\" behind the evacuation of 379 people as fire engulfed the plane.",
+            "url": "https://www.bbc.com/news/world-asia-67870119",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/119CB/production/_132193127_gettyimages-1893861051.jpg",
+            "publishedAt": "2024-01-03T12:33:00Z",
+            "content": "By Kelly Ng &amp; Flora DruryBBC News\r\nWatch: Aerial footage shows burned out shell of Japan plane\r\nPassengers dashed to the emergency exits of a burning Japan Airlines jet without their hand luggage… [+8278 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "mlive.com"
+            },
+            "author": "Samuel Dodge | sdodge@mlive.com",
+            "title": "Get ready to pay if you’re a Wolverines fan who wants to go to the National Championship game - MLive.com",
+            "description": "Expect a lighter wallet if you're a Michigan fan heading to Houston for the College Football Playoff National Championship Game.",
+            "url": "https://www.mlive.com/news/ann-arbor/2024/01/get-ready-to-pay-if-youre-a-wolverine-fan-who-wants-to-go-to-the-national-championship-game.html",
+            "urlToImage": "https://www.mlive.com/resizer/Qj-kul5Q9Jm8lj-0t8EsRamu7iQ=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GTYCOPPVYNBVFBHAZZDN5HLKRY.jpg",
+            "publishedAt": "2024-01-03T12:30:00Z",
+            "content": "ANN ARBOR, MI - Michigan football fans had nearly a month to plan for the Rose Bowl after the Wolverines earned the No. 1 seed in the College Football Playoff.\r\nAfter a 27-20 overtime win over Alabam… [+2251 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Milwaukee Journal Sentinel"
+            },
+            "author": "JR Radcliffe",
+            "title": "Aaron Rodgers' comments about TV host Jimmy Kimmel draw sharp rebuke - Milwaukee Journal Sentinel",
+            "description": "Aaron Rodgers continued his talkative ways in 2024, and TV host Jimmy Kimmel was not amused by one inference on the Pat McAfee Show.",
+            "url": "https://www.jsonline.com/story/sports/nfl/packers/2024/01/03/aaron-rodgers-comments-about-tv-host-jimmy-kimmel-draw-sharp-rebuke/72091817007/",
+            "urlToImage": "https://www.jsonline.com/gcdn/authoring/authoring-images/2023/08/31/USAT/70727192007-xxx-img-jimmy-kimmel-3-1-sjk-04-oke.JPG?crop=2996,1695,x0,y150&width=2996&height=1695&format=pjpg&auto=webp",
+            "publishedAt": "2024-01-03T12:02:57Z",
+            "content": "Aaron Rodgers' latest musings drew some sharp (and potentially litigious?) pushback from late night television host Jimmy Kimmel.\r\nThe former Packers quarterback appeared Tuesday as usual on The Pat … [+3077 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Japan quake survivors face freezing rain, threat of landslides - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/world/asia-pacific/japan-quake-survivors-face-freezing-rain-threat-landslides-2024-01-03/",
+            "urlToImage": null,
+            "publishedAt": "2024-01-03T11:59:22Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Francesca Bacardi",
+            "title": "Jen Shah slams 'butthurt' Andy Cohen for Heather Gay's black eye revelation: 'The show can't live without me' - Page Six",
+            "description": "“Why would you sit down with someone who ‘gave’ another cast member a black eye? Next story,” the former “RHOSLC” star wrote on Instagram from prison.",
+            "url": "https://pagesix.com/2024/01/03/entertainment/jen-shah-slams-andy-cohen-for-heather-gays-claim-she-gave-black-eye/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/01/74354006.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-01-03T11:57:00Z",
+            "content": "Jen Shah has slammed Heather Gay’s allegations that she gave her the now-infamous black eye  and is calling out Bravo for not providing footage of the purported attack.\r\n“BRAVO, if I punched Heather … [+2377 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Barbara Kollmeyer",
+            "title": "Nvidia and other stocks \"approaching the trough of disillusionment\" over GenAI - MarketWatch",
+            "description": "Critical information for the U.S. trading day",
+            "url": "https://www.marketwatch.com/story/beware-as-nvidia-and-other-stocks-approach-trough-of-disillusionment-over-genai-warns-this-analyst-8176e674",
+            "urlToImage": "https://images.mktw.net/im-89702741/social",
+            "publishedAt": "2024-01-03T11:51:00Z",
+            "content": "Wall Streets second day of 2024 is starting like the bumpy first day, with major indexes all in the red, led by technology stocks.Steve Eisman, of Big Short fame and now portfolio manager at Neuberge… [+7605 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sam Meredith",
+            "title": "Killing of senior Hamas leader in Lebanon stokes fears of Gaza war spreading beyond enclave - CNBC",
+            "description": "The killing of a senior Hamas leader in Lebanon's capital of Beirut has sparked fears that the war in Gaza could spread far beyond the Palestinian enclave.",
+            "url": "https://www.cnbc.com/2024/01/03/israel-lebanon-killing-of-hamas-leader-stokes-fears-of-wider-conflict.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107353595-1704286857762-107353595-1704280946409-gettyimages-1896369936-20090101240103-911-003417.jpg?v=1704286872&w=1920&h=1080",
+            "publishedAt": "2024-01-03T11:49:19Z",
+            "content": "The destroyed Hamas' office that was attacked by Israel on 02 January killing Palestinian leader Saleh al-Arouri and six others pictured from shattered glass in Beirut southern suburb.\r\nThe killing o… [+4343 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Paris Marx",
+            "title": "Why America's Electric Car Push Isn't Working - Business Insider",
+            "description": "The sudden slowdown in electric car sales is a symptom of a much uglier problem.",
+            "url": "https://www.businessinsider.com/electric-car-ev-sales-prices-problem-transportation-2024-1",
+            "urlToImage": "https://i.insider.com/6580a0d61c5c7b8c9a0960bc?width=1200&format=jpeg",
+            "publishedAt": "2024-01-03T10:46:00Z",
+            "content": "Electric vehicles were supposed to be inevitable. Two years ago President Joe Biden climbed behind the wheel of a beefy white electric Hummer to tout his plan to make half of all new cars sold electr… [+10985 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Weather Channel"
+            },
+            "author": "The Weather Channel",
+            "title": "Winter Storm Ahead For The East This Weekend | Weather.com - The Weather Channel",
+            "description": "A winter storm will likely affect parts of the East this weekend, but details are still uncertain. Here's what we know right now. - Articles from The Weather Channel | weather.com",
+            "url": "https://weather.com/storms/winter/news/2024-01-02-winter-storm-forecast-east-snow-rain-wind",
+            "urlToImage": "https://s.w-x.co/stormwedam.jpg",
+            "publishedAt": "2024-01-03T10:40:11Z",
+            "content": "At a Glance\r\n<ul><li>A winter storm will likely affect parts of the East with snow, rain and wind this weekend.</li><li>The snowfall forecast for this system is still uncertain, especially for areas … [+3875 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Nigel Lythgoe sued again over alleged sexual abuse - US media - BBC.com",
+            "description": "The allegations from two All American Girl contestants follow claims of assault by singer Paula Abdul.",
+            "url": "https://www.bbc.com/news/entertainment-arts-67871451",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10399/production/_132175466_download-25.png",
+            "publishedAt": "2024-01-03T10:18:00Z",
+            "content": "By Noor NanjiCulture reporter\r\nTwo former contestants on All American Girl are suing British television executive Nigel Lythgoe over alleged sexual assault, according to US media.\r\nThe lawsuit claims… [+4200 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Starbucks.com"
+            },
+            "author": "Starbucks Stories",
+            "title": "Starbucks Launches Winter Menu with New Iced Hazelnut Oatmilk Shaken Espresso and the Return of Pistachio - Starbucks Stories",
+            "description": null,
+            "url": "https://stories.starbucks.com/press/2024/starbucks-launches-winter-menu-with-new-iced-hazelnut-oatmilk-shaken-espresso-and-the-return-of-pistachio/",
+            "urlToImage": null,
+            "publishedAt": "2024-01-03T10:04:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jon Porter",
+            "title": "Samsung's OLED gaming monitors now come in more shapes, sizes, and up to 360Hz - The Verge",
+            "description": "Samsung has announced the 49-inch curved ultra-wide Odyssey OLED G9, the 32-inch flat Odyssey OLED G8, and the 27-inch flat Odyssey OLED G6 at CES 2024.",
+            "url": "https://www.theverge.com/2024/1/3/24023513/samsung-ces-2024-gaming-monitors-odyssey-oled-g6-g8-g9",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Sla3zZR8dzMNqSLo92gDNO8yhY0=/0x0:1089x726/1200x628/filters:focal(545x363:546x364)/cdn.vox-cdn.com/uploads/chorus_asset/file/25200624/CES_2024_Odyssey_OLED_series_G95SD_G80SD_G60SD_950x726.jpg",
+            "publishedAt": "2024-01-03T10:01:38Z",
+            "content": "Samsungs OLED gaming monitors now come in more shapes, sizes, and up to 360Hz\r\nSamsungs OLED gaming monitors now come in more shapes, sizes, and up to 360Hz\r\n / Flat is the new curved as Samsung anno… [+2486 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Hanna Ziady",
+            "title": "Maersk suspends shipping through key Red Sea maritime trade route ‘until further notice’ - CNN",
+            "description": "Maersk has suspended shipping through the Red Sea and Suez Canal — one of the world’s most important maritime trade routes — “until further notice” as it continues to review security following an attack on one of its vessels.",
+            "url": "https://www.cnn.com/2024/01/02/business/red-sea-houthi-attacks-maersk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240102100734-maersk-hangzhou-file-2018-netherlands.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-01-03T08:36:30Z",
+            "content": "Maersk has suspended shipping through the Red Sea and Suez Canal one of the worlds most important maritime trade routes until further notice as it continues to review security following an attack on … [+4179 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "COLLIN BINKLEY, MORIAH BALINGIT",
+            "title": "Harvard president quits: Claudine Gay resignation highlights new conservative weapon - The Associated Press",
+            "description": "The downfall of Harvard’s president has elevated allegations of plagiarism as a possible new weapon in conservative attacks on higher education. President Claudine Gay’s resignation Tuesday followed weeks of mounting accusations that she lifted language from …",
+            "url": "https://apnews.com/article/harvard-president-plagiarism-claudine-gay-3b048da1f2ee17b5edec3680b5828e8f",
+            "urlToImage": "https://dims.apnews.com/dims4/default/9393b0a/2147483647/strip/true/crop/3139x1766+0+164/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc4%2Fcb%2F33d8a941fb0a37051564855e903b%2Fc4baf86246ab4e9e9887e633d61bd9cb",
+            "publishedAt": "2024-01-03T05:56:28Z",
+            "content": "WASHINGTON (AP) The downfall of Harvards president has elevated the threat of unearthing plagiarism, a cardinal sin in academia, as a possible new weapon in conservative attacks on higher education.\r… [+7716 chars]"
+        }
+    ]
+}
